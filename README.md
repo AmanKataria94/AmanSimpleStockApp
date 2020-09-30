@@ -5,4 +5,4 @@ Jar is committed so worst case use - 'java -jar target/superSimpleStock-1.0-SNAP
 
 Treated this challenge more like a game. Since no gui needed I made a small console app.
 
-Could be ported to be a more sophisticated web app. If desired please let me know.
+Occured to me late in the project that this could be better done over a REST API. If desired to change into one to showcase my skills a bit more please let me know.
